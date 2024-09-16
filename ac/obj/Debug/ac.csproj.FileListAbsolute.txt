@@ -1,0 +1,53 @@
+C:\Users\OGRENCI\Desktop\ac\ac\bin\Debug\ac.exe.config
+C:\Users\OGRENCI\Desktop\ac\ac\bin\Debug\ac.exe
+C:\Users\OGRENCI\Desktop\ac\ac\bin\Debug\ac.pdb
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.csproj.AssemblyReference.cache
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Form1.resources
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Form2.resources
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Properties.Resources.resources
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.csproj.GenerateResource.cache
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.csproj.CoreCompileInputs.cache
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.exe
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.pdb
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Form3.resources
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Form4.resources
+C:\Users\OGRENCI\Desktop\ac\ac\obj\Debug\ac.Form5.resources
+C:\Users\user\Desktop\ac\ac\bin\Debug\ac.exe.config
+C:\Users\user\Desktop\ac\ac\bin\Debug\ac.exe
+C:\Users\user\Desktop\ac\ac\bin\Debug\ac.pdb
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.Form1.resources
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.Form2.resources
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.Form3.resources
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.Form5.resources
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.Properties.Resources.resources
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.exe
+C:\Users\user\Desktop\ac\ac\obj\Debug\ac.pdb
+C:\Users\user\Desktop\görsel bitti\ac\bin\Debug\ac.exe.config
+C:\Users\user\Desktop\görsel bitti\ac\bin\Debug\ac.exe
+C:\Users\user\Desktop\görsel bitti\ac\bin\Debug\ac.pdb
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.Form1.resources
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.Form2.resources
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.Form3.resources
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.Form5.resources
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.Properties.Resources.resources
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.csproj.GenerateResource.cache
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.exe
+C:\Users\user\Desktop\görsel bitti\ac\obj\Debug\ac.pdb
+C:\Users\user\Desktop\projeler\görsel bitti\ac\bin\Debug\ac.exe.config
+C:\Users\user\Desktop\projeler\görsel bitti\ac\bin\Debug\ac.exe
+C:\Users\user\Desktop\projeler\görsel bitti\ac\bin\Debug\ac.pdb
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.Form1.resources
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.Form2.resources
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.Form3.resources
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.Form5.resources
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.Properties.Resources.resources
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.exe
+C:\Users\user\Desktop\projeler\görsel bitti\ac\obj\Debug\ac.pdb
